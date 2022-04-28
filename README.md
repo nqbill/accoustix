@@ -1,7 +1,6 @@
-# accoustix
-Bot musik discord dengan berbagai fitur menarik dan mempunyai kualitas yang tinggi untuk stream musik
-
 # ACCOUSTIX 
+
+> Bot musik discord dengan berbagai fitur menarik dan mempunyai kualitas yang tinggi untuk stream musik
 
 > Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.dev) if u want to support me, then please [invite](https://lava.milrato.dev) him!**
 
