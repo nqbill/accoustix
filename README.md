@@ -30,14 +30,6 @@ Bot musik discord dengan berbagai fitur menarik dan mempunyai kualitas yang ting
 
 ***
 
-# 🖤 Replit.com Version | [FORK IT!](https://replit.com/@OxyTomato/Lava-Music?v=1)
-
-***
-
-# [Youtube Hosting Tutorial](https://www.youtube.com/watch?v=AnYTaFPB4f8)
-
-***
-
 <br/>
 
 ## Installation | How to use the Bot
@@ -61,6 +53,14 @@ Bot musik discord dengan berbagai fitur menarik dan mempunyai kualitas yang ting
 
 #### **NOTE:**
 > *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+
+***
+
+# 🖤 Replit.com Version | [FORK IT!](https://replit.com/@OxyTomato/Lava-Music?v=1)
+
+***
+
+# [Youtube Hosting Tutorial](https://www.youtube.com/watch?v=AnYTaFPB4f8)
 
 ***
 
