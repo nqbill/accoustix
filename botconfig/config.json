@@ -1,0 +1,26 @@
+{
+   "token": "OTYxMDIyNTI1Mzg1NjA5MjE2.Yky7-A.nrNM0gaqiLsHtoDhkyyuFb96J78",
+   "prefix": "-",
+   "ownerIDS": [
+      "782982476774637598"
+   ],
+   "status": {
+      "text": "Accoustix and {songsplayed} Songs",
+      "text2": "discord.gg/homely",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/nqbilll"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "homely"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "ae3ab582000949039e740f77ca03e2eb",
+      "clientSecret": "3cec7a1295aa4bd0858f647c9cfadd3b"
+   }
+}
