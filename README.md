@@ -4,6 +4,8 @@
 
 > Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.dev) if u want to support me, then please [invite](https://lava.milrato.dev) him!**
 
+<div class="gh-card gh-large" data-repo="nqbill/accoustix" data-image="https://raw.githubusercontent.com/nqbill/Accoustix/main/src/img/accoustix.jpg"></div>
+
 ## Features:
 ✓ Auto resume
 
